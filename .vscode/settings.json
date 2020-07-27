@@ -1,0 +1,8 @@
+{
+    "editor.fontSize":14,
+    "editor.minimap.enabled": false,
+    "editor.wordWrap": "on",
+    "code-runner.executorMap": {
+        "python": "E:\\PYTHON-CURSOS\\Scripts\\activate.bat && python -u",
+    }
+}
